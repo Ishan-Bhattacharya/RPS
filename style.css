@@ -1,0 +1,26 @@
+#Player1 {
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 1cm;
+}
+
+#Rock, #Paper, #Scissors {
+    color: white;
+    background-color: rgba(119, 6, 6, 0.788);
+}
+
+#results {
+    display: flex;
+    justify-content: center;
+    margin-top: 1cm;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500px;
+    color: aliceblue;
+    background-color: brown;
+}
